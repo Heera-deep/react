@@ -22,7 +22,7 @@ const MyCalendar = () => {
 
   return (
   <>
-  <h1>MyCalendar</h1>
+  <h2 className="py-5 text-center">MyCalendar</h2>
       <div style={{ height: "500px", margin: "20px" }}>
         <Calendar
           localizer={localizer}

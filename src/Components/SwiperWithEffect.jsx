@@ -11,11 +11,12 @@ const SwiperWithEffect = () => {
 
   return (
     <Swiper
+    className='mt-5'
       modules={[Navigation, Pagination, EffectCoverflow]}
       effect="fade"
       grabCursor={true}
       centeredSlides={true}
-      slidesPerView={3}
+      slidesPerView={2}
     
       navigation={true}
       pagination={{
