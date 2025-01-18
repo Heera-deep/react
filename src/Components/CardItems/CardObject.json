@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Margherita Pizza",
+    "content": "Classic Italian pizza with fresh mozzarella and basil.",
+    "price": 299,
+    "off": "10",
+    "place": "Italiano Bistro",
+    "time": "30 mins"
+  },
+  {
+    "id": 2,
+    "img": "https://img.freepik.com/free-photo/delicious-sandwiches-fries-ketchup-wooden-cutting-board-dark-mix-color-surface_179666-42231.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Cheeseburger",
+    "content": "Juicy grilled beef patty with cheese, lettuce, and tomato.",
+    "price": 239,
+    "off": "15",
+    "place": "Burger Haven",
+    "time": "25 mins"
+  },
+  {
+    "id": 3,
+    "img": "https://img.freepik.com/free-photo/grilled-gourmet-burger-with-cheese-tomato-onion-french-fries-generated-by-artificial-intelligence_25030-63181.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Creamy Alfredo Pasta",
+    "content": "Rich and creamy pasta with a touch of garlic and parmesan.",
+    "price": 149,
+    "off": "5",
+    "place": "Pasta Paradise",
+    "time": "20 mins"
+  },
+  {
+    "id": 4,
+    "img": "https://img.freepik.com/free-photo/side-view-chicken-burger-deep-fired-chicken-fillet-with-tomato-cheese-lettuce-burger-buns_141793-4816.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Greek Salad",
+    "content": "A healthy mix of fresh veggies, feta cheese, and olives.",
+    "price": 149,
+    "off": "20",
+    "place": "Health Bowl",
+    "time": "15 mins"
+  },
+  {
+    "id": 5,
+    "img": "https://img.freepik.com/free-photo/chicken-roulets-with-spinach-table_140725-4552.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Sushi Platter",
+    "content": "An assortment of fresh sushi rolls and sashimi.",
+    "price": 499,
+    "off": "10",
+    "place": "Sushi World",
+    "time": "45 mins"
+  },
+  {
+    "id": 6,
+    "img": "https://img.freepik.com/free-photo/view-delicious-lentil-soup-brown-pot-served-with-lemons-green-black-bread-slices_140725-144436.jpg?ga=GA1.1.597052306.1733543114&semt=ais_hybrid",
+    "cardTitle": "Daal Makhni",
+    "content": "Slow-cooked black lentils with rich spices and butter.",
+    "price": 299,
+    "off": "8",
+    "place": "Spice Avenue",
+    "time": "35 mins"
+  }
+]
