@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { Routes, Route, NavLink } from "react-router-dom";
 import MyCalendar from "./Components/MyCalendar";
 import MyWebcam from "./Components/MyWebcam";
@@ -10,6 +10,7 @@ import Simple from "./Components/Simple";
 import TodoList from "./Components/TodoList";
 import Card from "./Components/CardItems/card";
 import SingalCard from "./Components/CardItems/SingalCard";
+import ResponsiveForm from "./Components/ResponsiveForm";
 
 const App = () => {
   return (
@@ -28,7 +29,7 @@ const App = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div className="navbar-nav gap-5">
+            <div className="navbar-nav gap-3">
                 <NavLink className="nav-link" to="/">
                   Home
                 </NavLink>
@@ -53,6 +54,9 @@ const App = () => {
                 <NavLink className="nav-link" to="/TodoList">
                   TodoList
                 </NavLink>
+                <NavLink className="nav-link" to="/ResponsiveForm">
+                ResponsiveForm
+                </NavLink>
             </div>
           </div>
         </div>
@@ -69,6 +73,7 @@ const App = () => {
         <Route path="/Simple" element={<Simple />} />
         <Route path="/TodoList" element={<TodoList />} />
         <Route path="/SingalCard" element={<SingalCard />} />
+        <Route path="/ResponsiveForm" element={<ResponsiveForm />} />
         <Route path="/" element={<Card />} />
       </Routes>
     </>
