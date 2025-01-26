@@ -9,7 +9,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/Heera-deep/react.git)
+   git clone https://github.com/Heera-deep/react.git
    cd react-main
    ```
 
@@ -112,7 +112,7 @@ This project uses `gh-pages` for deployment.
    ```
 
 2. **Access Your Deployed App:**
-   The app will be available at `[https://<username>.github.io/<repository-name>](https://heera-deep.github.io/react/)`.
+   The app will be available at [Visit the App](https://heera-deep.github.io/react/).
 
 ---
 
